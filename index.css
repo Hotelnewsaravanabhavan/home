@@ -181,7 +181,7 @@ kbd{
     -moz-border-radius: 50%;
     border-radius:60px;
     text-indent: -9999;
-    z-index:1;
+    z-index:999;
 }
 #scroll span {
     position:absolute;
